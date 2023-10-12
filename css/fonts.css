@@ -1,0 +1,10 @@
+/* Inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Apple SF Pro Regular Font */
+@font-face {
+    font-family: 'SF Pro';
+    src: url('https://www.apple.com/wss/fonts/SF-Pro-Text/v2/sf-pro-text_regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
